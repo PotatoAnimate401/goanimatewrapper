@@ -2144,6 +2144,14 @@
 			"arg": "/english/american/29-male-voice-joey.html",
 			"desc": "Joey (Old)"
 		},
+		"salli1": {
+			"country": "US",
+			"language": "en",
+			"gender": "F",
+			"source": "readloud",
+			"arg": "/english/american/2-girl-s-voice-sally.html",
+			"desc": "Salli (Old)"
+		},
 		"brian1": {
 			"country": "GB",
 			"language": "en",
